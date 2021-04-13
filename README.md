@@ -20,14 +20,14 @@ This project uses both vector approach and Lagrangian model for the prediction o
   <li> The user can either directly specify the latitute & longitude or pin the location in the map which in turn will auto-populate the co-ordinates. </li>
   <li> Once all the input values are provided the application generates a image and gif as follow</li>
   <li> The gif shows the trajectory of oil spill for a duration of 3 days and time change can be seen at the top of the gif </li> 
-  <img src="one.gif"/>
+  <img src="spill.gif"/>
   <li> The image helps us to get a deeper insight about the spills path which in turn points out various parameters like,
       <ul>
       <li> Initial spill location – Green color</li>
       <li> Active oil – Blue color</li>
       <li> Stranded oil – Red color </li>
         <li> Evaporated oil – Yellow color </li></ul></li>
-  <img src="one.jpg"/>
+  <img src="spill.jpg"/>
   </ul>
   
 ## Framework
